@@ -47,6 +47,12 @@
       "title": "Post 8",
       "text": "Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you.",
       "img": "https://picsum.photos/200/200/?image=88"
+    },
+    {
+      "title": "Post 10",
+      "text": "Any post texts here",
+      "img": "https://picsum.photos/200/200/?image=65",
+      "id": 9
     }
   ]
 }
